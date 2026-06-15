@@ -1,4 +1,3 @@
-# CLIENT_AND_SERVER_PROJECT
 # Client and Server Project
 
 ## Overview
